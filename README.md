@@ -2,7 +2,7 @@
 This is a single page resume website created using only HTML.
 
 ## Screenshot
-![Resume Website Preview](https://github.com/pulkitsgit/html-resume/blob/52e51cbf2469341d34c7751e1fdbe09bed37d037/Screenshot%20(11)a.png)
+![Resume Website Preview](https://github.com/pulkitsgit/html-resume/blob/72ef9790d649c4ee6121a3687953b35607021bfe/project-screenshot.png)
 
 ## Disclaimer
 The data used in this project is **dummy / mock data** used for learning purposes.
@@ -20,4 +20,4 @@ The data used in this project is **dummy / mock data** used for learning purpose
    Open with Live Server in VS Code
 
 ## Live Demo
-silver-starship-d7bf2d.netlify.app
+genuine-lily-41acfa.netlify.app
